@@ -1,1 +1,2 @@
-# Android-Project-Quiz-App
+# Quiz-App
+Android Application
